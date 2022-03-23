@@ -1,0 +1,6 @@
+torch
+torchvision
+tianshou
+nes-py
+gym
+gym-super-mario-bros
